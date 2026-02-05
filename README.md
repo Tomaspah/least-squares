@@ -1,2 +1,2 @@
 # Srovnání metod pro řešení least squares problému v PETSc
-Můj projekt srovnává metody LSQR, BCGS, BICG a CGNE y PETSc na třech vybraných maticích z SuiteSparse Matrix Collection. Projekt je dělán v prostředí Jupyter notebooku a všechny buňky už jsou proběhlé, a tak jsou výsledky ze srovnávání jednotlivých metod rovnou vidět.
+Můj projekt srovnává metody LSQR, BCGS, BICG a CGNE y PETSc na třech vybraných maticích z SuiteSparse Matrix Collection. Projekt je dělán v prostředí Jupyter notebooku. První buňka obsahuje funkci, která řeší problém pomocí vybrané metody, druhá obsahuje celé testování všech vybraných matic přeš všechny vybrané metody.
